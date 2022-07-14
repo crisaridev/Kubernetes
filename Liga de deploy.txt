@@ -1,0 +1,3 @@
+https://hub.docker.com/r/thearchitect11/mariadb-microservicio
+https://hub.docker.com/r/thearchitect11/ejemplo-java
+https://hub.docker.com/r/thearchitect11/ejemplo-netcore
